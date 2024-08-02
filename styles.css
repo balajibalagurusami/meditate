@@ -36,12 +36,17 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    margin-top: 2rem;
+    margin-top: 1rem;
 }
 
 button:hover {
     background: #00c6ff;
     color: #fff;
+}
+
+#timer {
+    font-size: 1.5rem;
+    margin-top: 1rem;
 }
 
 @keyframes breathe {
